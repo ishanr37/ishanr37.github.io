@@ -1,3 +1,3 @@
-theme: jekyll-theme-minimal
-title: ishan's homepage
-description: <placeholder...>
+name: Ishan Raghavendra
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
